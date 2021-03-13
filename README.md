@@ -3,6 +3,15 @@
 
 Projeto realizado nas aulas do Ignite, da Rocketseat, onde colocamos em prática os fundamentos do ReactJS. Realizamos a contrução do GitHub Explorer, um local que é responsável por buscar na API do GitHub os repositórios da Rocketseat. Com isso, conseguimos exibir os dados dos repositórios na tela do usuário.
 
+### :small_red_triangle_down: Algumas dependências :small_red_triangle_down:
+* ReactJS
+* Typescript
+* SASS
+* Babel
+* Webpack
+
+
+
 ### :page_with_curl: Primeiros passos
 #### Utilizando yarn
 1) Baixar os pacotes do projeto
