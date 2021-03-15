@@ -1,29 +1,56 @@
-# :pushpin: GitHub Explorer</h1>
+<h1 align="center">
+    Projeto GitHub Explorer
+</h1>
 
+<p align="center">
+  <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-requisitos">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-iniciando-front-end">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-Projeto realizado nas aulas do Ignite, da Rocketseat, onde colocamos em prática os fundamentos do ReactJS. Realizamos a construção do GitHub Explorer, um local que é responsável por buscar na API do GitHub os repositórios da Rocketseat. Com isso, conseguimos exibir os dados dos repositórios na tela do usuário.
-
-## :camera: Exemplo:
 ![alt text](https://github.com/MauricioPDuarte/github-explorer/blob/main/img-1.PNG?raw=true)
 
+## :page_with_curl: Sobre
+Projeto realizado nas aulas do Ignite, da Rocketseat, onde colocamos em prática os fundamentos do ReactJS. 
 
-### :small_red_triangle_down: Algumas dependências :small_red_triangle_down:
+Realizamos a construção do GitHub Explorer, um local que é responsável por buscar na API do GitHub os repositórios da Rocketseat. Com isso, conseguimos exibir os dados dos repositórios na tela do usuário.
+
+Observação: O objetivo do projeto no curso é de estudar os fundamentos do ReactJS.
+
+## :books: Requisitos
+- Ter [**Git**](https://git-scm.com/) para clonar o projeto.
+- Ter [**Node.js**](https://nodejs.org/en/) instalado.
+- Ter [**Yarn**](https://yarnpkg.com/) instalado.
+
+
+## :syringe: Dependências
 * ReactJS
 * Typescript
 * SASS
 * Babel
 * Webpack
+...
 
+## :rocket: Começando
+``` bash
+  # Clonar o projeto:
+  $ git clone https://github.com/MauricioPDuarte/login-cadastro-reactjs github-explorer
 
+  # Entrar no diretório:
+  $ cd github-explorer
+```
 
-### :page_with_curl: Primeiros passos
-#### Utilizando yarn
-1) Baixar os pacotes do projeto
+## :computer: Iniciando front-end
+```bash
+  # Instalar as dependências:
+  $ yarn
+
+  # Rodar a aplicação:
+  $ yarn dev
 ```
-yarn
-```
-2) Rodar o projeto
-```
-yarn dev
-```
+
+Feito com ❤️ por Mauricio Pruss Duarte 👋🏻 [Get in touch!](https://github.com/MauricioPDuarte)
+
 
