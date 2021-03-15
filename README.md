@@ -10,7 +10,7 @@
   <a href="#computer-iniciando-front-end">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-![alt text](https://github.com/MauricioPDuarte/github-explorer/blob/main/img-1.PNG?raw=true)
+![alt text](https://github.com/MauricioPDuarte/github-explorer/blob/main/github-explorer.png?raw=true)
 
 ## :page_with_curl: Sobre
 Projeto realizado nas aulas do Ignite, da Rocketseat, onde colocamos em prática os fundamentos do ReactJS. 
