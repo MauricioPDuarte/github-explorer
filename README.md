@@ -36,7 +36,7 @@ Observação: O objetivo do projeto no curso é de estudar os fundamentos do Rea
 ## :rocket: Começando
 ``` bash
   # Clonar o projeto:
-  $ git clone https://github.com/MauricioPDuarte/login-cadastro-reactjs github-explorer
+  $ git clone https://github.com/MauricioPDuarte/github-explorer github-explorer
 
   # Entrar no diretório:
   $ cd github-explorer
